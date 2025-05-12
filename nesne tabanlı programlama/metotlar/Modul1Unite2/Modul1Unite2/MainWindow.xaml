@@ -1,0 +1,17 @@
+﻿<Window x:Class="ToplamaUygulamasi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Toplama Uygulaması" Height="250" Width="400">
+    <Grid Margin="10">
+        <Label Content="1. sayı" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <TextBox x:Name="txtSayi1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="100,10,0,0"/>
+
+        <Label Content="2. sayı" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,50,0,0"/>
+        <TextBox x:Name="txtSayi2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="100,50,0,0"/>
+
+        <Label Content="Sonuç" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,90,0,0"/>
+        <TextBox x:Name="txtSonuc" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="100,90,0,0" IsReadOnly="True"/>
+
+        <Button x:Name="btnHesapla" Content="Hesapla" Width="100" Height="30" HorizontalAlignment="Left" Margin="100,140,0,0" VerticalAlignment="Top" Click="btnHesapla_Click"/>
+    </Grid>
+</Window>

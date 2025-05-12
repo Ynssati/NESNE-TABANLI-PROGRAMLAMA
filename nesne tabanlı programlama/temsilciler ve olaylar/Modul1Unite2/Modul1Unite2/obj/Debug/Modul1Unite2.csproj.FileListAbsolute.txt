@@ -1,0 +1,8 @@
+C:\nesne tabanlı programlama\Modul1Unite2\Modul1Unite2\bin\Debug\Modul1Unite2.exe.config
+C:\nesne tabanlı programlama\Modul1Unite2\Modul1Unite2\bin\Debug\Modul1Unite2.exe
+C:\nesne tabanlı programlama\Modul1Unite2\Modul1Unite2\bin\Debug\Modul1Unite2.pdb
+C:\nesne tabanlı programlama\Modul1Unite2\Modul1Unite2\obj\Debug\Modul1Unite2.csproj.AssemblyReference.cache
+C:\nesne tabanlı programlama\Modul1Unite2\Modul1Unite2\obj\Debug\Modul1Unite2.csproj.SuggestedBindingRedirects.cache
+C:\nesne tabanlı programlama\Modul1Unite2\Modul1Unite2\obj\Debug\Modul1Unite2.csproj.CoreCompileInputs.cache
+C:\nesne tabanlı programlama\Modul1Unite2\Modul1Unite2\obj\Debug\Modul1Unite2.exe
+C:\nesne tabanlı programlama\Modul1Unite2\Modul1Unite2\obj\Debug\Modul1Unite2.pdb

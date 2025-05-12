@@ -1,0 +1,22 @@
+C:\nesne tabanlı programlama\Modul1Unite1\Modul1Unite1\obj\Debug\Modul1Unite1.csproj.AssemblyReference.cache
+C:\nesne tabanlı programlama\Modul1Unite1\Modul1Unite1\obj\Debug\Modul1Unite1.csproj.SuggestedBindingRedirects.cache
+C:\nesne tabanlı programlama\Modul1Unite1\Modul1Unite1\obj\Debug\GunlerEnumOrnek.Form1.resources
+C:\nesne tabanlı programlama\Modul1Unite1\Modul1Unite1\obj\Debug\Modul1Unite1.Properties.Resources.resources
+C:\nesne tabanlı programlama\Modul1Unite1\Modul1Unite1\obj\Debug\Modul1Unite1.csproj.GenerateResource.cache
+C:\nesne tabanlı programlama\Modul1Unite1\Modul1Unite1\obj\Debug\Modul1Unite1.csproj.CoreCompileInputs.cache
+C:\nesne tabanlı programlama\Modul1Unite1\Modul1Unite1\bin\Debug\Modul1Unite1.exe.config
+C:\nesne tabanlı programlama\Modul1Unite1\Modul1Unite1\bin\Debug\Modul1Unite1.exe
+C:\nesne tabanlı programlama\Modul1Unite1\Modul1Unite1\bin\Debug\Modul1Unite1.pdb
+C:\nesne tabanlı programlama\Modul1Unite1\Modul1Unite1\obj\Debug\Modul1Unite1.exe
+C:\nesne tabanlı programlama\Modul1Unite1\Modul1Unite1\obj\Debug\Modul1Unite1.pdb
+C:\nesne tabanlı programlama\değer türleri\Modul1Unite1\Modul1Unite1\bin\Debug\Modul1Unite1.exe.config
+C:\nesne tabanlı programlama\değer türleri\Modul1Unite1\Modul1Unite1\bin\Debug\Modul1Unite1.exe
+C:\nesne tabanlı programlama\değer türleri\Modul1Unite1\Modul1Unite1\bin\Debug\Modul1Unite1.pdb
+C:\nesne tabanlı programlama\değer türleri\Modul1Unite1\Modul1Unite1\obj\Debug\Modul1Unite1.csproj.AssemblyReference.cache
+C:\nesne tabanlı programlama\değer türleri\Modul1Unite1\Modul1Unite1\obj\Debug\Modul1Unite1.csproj.SuggestedBindingRedirects.cache
+C:\nesne tabanlı programlama\değer türleri\Modul1Unite1\Modul1Unite1\obj\Debug\GunlerEnumOrnek.Form1.resources
+C:\nesne tabanlı programlama\değer türleri\Modul1Unite1\Modul1Unite1\obj\Debug\Modul1Unite1.Properties.Resources.resources
+C:\nesne tabanlı programlama\değer türleri\Modul1Unite1\Modul1Unite1\obj\Debug\Modul1Unite1.csproj.GenerateResource.cache
+C:\nesne tabanlı programlama\değer türleri\Modul1Unite1\Modul1Unite1\obj\Debug\Modul1Unite1.csproj.CoreCompileInputs.cache
+C:\nesne tabanlı programlama\değer türleri\Modul1Unite1\Modul1Unite1\obj\Debug\Modul1Unite1.exe
+C:\nesne tabanlı programlama\değer türleri\Modul1Unite1\Modul1Unite1\obj\Debug\Modul1Unite1.pdb
